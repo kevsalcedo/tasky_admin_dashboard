@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381271821335",
+    "project_id": "tasky-admin-dashboard",
+    "storage_bucket": "tasky-admin-dashboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381271821335:android:65b9efdf2d1e538c786052",
+        "android_client_info": {
+          "package_name": "com.example.tasky_admin_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzoOvid5wi0672MsadedOCv5o03cT-cco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
